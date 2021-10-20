@@ -1,4 +1,4 @@
-## Olá, eu sou Francisco Castro!
+## Olá, eu sou Francisco! 👋
 
 - 🔭 Sou desenvolvedor front-end  
 - 🌱 Atualmente estou buscando me aperfeiçoar em outras tecnologias para me tornar um desenvolvedor full-stack
