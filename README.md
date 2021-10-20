@@ -1,7 +1,9 @@
 ## Olá, eu sou Francisco Castro!
 
-- 🔭 Sou front-end developer 
-- 🌱 Atualmente estou buscando me aperfeiçoar em outras tecnologias para me tornar um full-stack developer
+- 🔭 Sou desenvolvedor front-end  
+- 🌱 Atualmente estou buscando me aperfeiçoar em outras tecnologias para me tornar um desenvolvedor full-stack
+- 👩‍🎓 Graduando em análise e desenvolvimento de sistemas
+- 💻 Trabalho na [Cuponeria](https://www.cuponeria.com.br)
 
 <div align="center">
   <a href="https://github.com/FranciscoBBC">
@@ -16,6 +18,8 @@
   <img align="center" alt="Francisco-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Francisco-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Francisco-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg">
+  <img align="center" alt="Francisco-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg">
+  <img align="center" alt="Francisco-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
 </div>
   
   ##
