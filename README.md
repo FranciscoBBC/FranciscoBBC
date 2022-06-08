@@ -1,9 +1,9 @@
 ## Olá, eu sou Francisco! 👋
 
 - 🔭 Sou desenvolvedor front-end  
-- 🌱 Atualmente estou buscando me aperfeiçoar em outras tecnologias para me tornar um desenvolvedor full-stack
-- 👩‍🎓 Graduando em análise e desenvolvimento de sistemas
-- 💻 Trabalho na [Cuponeria](https://www.cuponeria.com.br)
+- 🌱 Atualmente deixando de focar 100% em front e estudando backend e devops também
+- 👩‍🎓 Formado em análise e desenvolvimento de sistemas
+- 💻 Trabalho no [Hurb](https://www.hurb.com/br)
 
 <div align="center">
   <a href="https://github.com/FranciscoBBC">
