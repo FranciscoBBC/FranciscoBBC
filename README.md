@@ -1,9 +1,8 @@
 ## Olá, eu sou Francisco! 👋
 
 - 🔭 Sou desenvolvedor front-end  
-- 🌱 Atualmente deixando de focar 100% em front e estudando backend e devops também
 - 👩‍🎓 Formado em análise e desenvolvimento de sistemas
-- 💻 Trabalho no [Hurb](https://www.hurb.com/br)
+- 💻 Trabalho na [DISYS]([https://www.hurb.com/br](https://brazil.disys.com/))
 
 <div align="center">
   <a href="https://github.com/FranciscoBBC">
