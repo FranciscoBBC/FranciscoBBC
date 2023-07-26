@@ -2,7 +2,7 @@
 
 - 🔭 Sou desenvolvedor front-end  
 - 👩‍🎓 Formado em análise e desenvolvimento de sistemas
-- 💻 Trabalho na [DISYS]([https://www.hurb.com/br](https://brazil.disys.com/))
+- 💻 Trabalho na [DISYS](https://brazil.disys.com/)
 
 <div align="center">
   <a href="https://github.com/FranciscoBBC">
